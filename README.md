@@ -1,2 +1,2 @@
-# hacckerrank
+# hackerrank
 All Hackerrank Submissions
